@@ -63,7 +63,7 @@ var lifeRafts = 2;
 3. Add a `dream` property to the `brain` object that holds the string  'electric sheep'
 <br><br>
 
-4. Add a `dayDream` property to the `brain` object that holds the object `{ lunch: ['burger', 'beer'] }` 
+4. Add a `dayDream` property to the `brain` object that holds the object `{ lunch: ['burger', 'beer'] }`
 <br><br>
 
 5. Add another element `pudding` to the lunch array inside the `brain` object
